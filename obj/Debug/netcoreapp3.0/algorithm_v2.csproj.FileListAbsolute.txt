@@ -1,0 +1,12 @@
+C:\Users\eLloydServe\Downloads\algorithm_v2\bin\Debug\netcoreapp3.0\algorithm_v2.exe
+C:\Users\eLloydServe\Downloads\algorithm_v2\bin\Debug\netcoreapp3.0\algorithm_v2.deps.json
+C:\Users\eLloydServe\Downloads\algorithm_v2\bin\Debug\netcoreapp3.0\algorithm_v2.runtimeconfig.json
+C:\Users\eLloydServe\Downloads\algorithm_v2\bin\Debug\netcoreapp3.0\algorithm_v2.runtimeconfig.dev.json
+C:\Users\eLloydServe\Downloads\algorithm_v2\bin\Debug\netcoreapp3.0\algorithm_v2.dll
+C:\Users\eLloydServe\Downloads\algorithm_v2\bin\Debug\netcoreapp3.0\algorithm_v2.pdb
+C:\Users\eLloydServe\Downloads\algorithm_v2\obj\Debug\netcoreapp3.0\algorithm_v2.csprojAssemblyReference.cache
+C:\Users\eLloydServe\Downloads\algorithm_v2\obj\Debug\netcoreapp3.0\algorithm_v2.csproj.CoreCompileInputs.cache
+C:\Users\eLloydServe\Downloads\algorithm_v2\obj\Debug\netcoreapp3.0\algorithm_v2.AssemblyInfoInputs.cache
+C:\Users\eLloydServe\Downloads\algorithm_v2\obj\Debug\netcoreapp3.0\algorithm_v2.AssemblyInfo.cs
+C:\Users\eLloydServe\Downloads\algorithm_v2\obj\Debug\netcoreapp3.0\algorithm_v2.dll
+C:\Users\eLloydServe\Downloads\algorithm_v2\obj\Debug\netcoreapp3.0\algorithm_v2.pdb
